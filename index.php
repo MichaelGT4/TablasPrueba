@@ -14,6 +14,9 @@
         <li>
         <a href="tabla2.php" target="blank">Reporte Dos - Basico</a>
         </li>
+        <li>
+        <a href="tabla3.php" target="blank">Reporte Tres - Intermedio</a>
+        </li>
     </ul>
 </body>
 </html>
